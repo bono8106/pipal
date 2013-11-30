@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		F648C7851810B90B00AB3312 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = F648C7841810B90B00AB3312 /* main.c */; };
 		F648C7871810B90B00AB3312 /* pipal.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = F648C7861810B90B00AB3312 /* pipal.1 */; };
+		F699DBE21849EB7600D44B7F /* pi1000000.txt in CopyFiles */ = {isa = PBXBuildFile; fileRef = F699DBDF1849E36700D44B7F /* pi1000000.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -22,12 +23,23 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		F699DBE11849EB6A00D44B7F /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 6;
+			files = (
+				F699DBE21849EB7600D44B7F /* pi1000000.txt in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		F648C7811810B90B00AB3312 /* pipal */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = pipal; sourceTree = BUILT_PRODUCTS_DIR; };
 		F648C7841810B90B00AB3312 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		F648C7861810B90B00AB3312 /* pipal.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = pipal.1; sourceTree = "<group>"; };
+		F699DBDF1849E36700D44B7F /* pi1000000.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pi1000000.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +72,7 @@
 		F648C7831810B90B00AB3312 /* pipal */ = {
 			isa = PBXGroup;
 			children = (
+				F699DBDF1849E36700D44B7F /* pi1000000.txt */,
 				F648C7841810B90B00AB3312 /* main.c */,
 				F648C7861810B90B00AB3312 /* pipal.1 */,
 			);
@@ -75,6 +88,7 @@
 			buildPhases = (
 				F648C77D1810B90B00AB3312 /* Sources */,
 				F648C77E1810B90B00AB3312 /* Frameworks */,
+				F699DBE11849EB6A00D44B7F /* CopyFiles */,
 				F648C77F1810B90B00AB3312 /* CopyFiles */,
 			);
 			buildRules = (
@@ -225,6 +239,7 @@
 				F648C78C1810B90B00AB3312 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
