@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2BDF6BB1-328C-4246-96FA-747A524B1B66</string>
+	<key>IDESourceControlProjectName</key>
+	<string>pipal</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>735172B2F419CD0D389ED7AF8A16B0BD7559C563</key>
+		<string>github.com:bono8106/pipal.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>pipal.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>735172B2F419CD0D389ED7AF8A16B0BD7559C563</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:bono8106/pipal.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>735172B2F419CD0D389ED7AF8A16B0BD7559C563</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>735172B2F419CD0D389ED7AF8A16B0BD7559C563</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pipal</string>
+		</dict>
+	</array>
+</dict>
+</plist>
